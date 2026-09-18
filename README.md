@@ -24,12 +24,14 @@ I enjoy building practical projects that combine software, hardware and data.
 
 ## 🚀 Projects
 
-I'm currently organizing and publishing projects including:
+## 🚀 Projects
 
-- **MacroKeysController** — programmable Raspberry Pi Pico macro keyboard using USB HID
-- **EEG / BCI Classification** — EEG signal processing and classification using Python, MNE, CSP and LDA
-- **Unity BCI Game** — Unity game with keyboard and real-time external input through LSL
-- **Temperature Monitoring System** — microcontroller + Python application for temperature monitoring and automatic fan control
+- **[Pico IR Communication](https://github.com/andrijamitrovicc/pico-ir-communication)**  
+  Infrared communication system between Raspberry Pi Pico boards using MicroPython, PWM and a 38 kHz IR link.
+
+- **EEG / BCI Classification** — coming soon
+- **Unity BCI Game** — coming soon
+- **Temperature Monitoring System** — coming soon
 
 ## 📫 Contact
 
