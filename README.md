@@ -31,7 +31,8 @@ I enjoy building practical projects that combine software, hardware and data.
 - **[EEG BCI Unity Control](https://github.com/andrijamitrovicc/eeg-bci-unity-control)**  
   EEG-based Brain-Computer Interface integrated with OpenViBE, CSP classification, LSL communication and a real-time Unity game.
 
-- **Temperature Monitoring System** — coming soon
+- **[Temperature Monitoring & Fan Control](https://github.com/andrijamitrovicc/temperature-fan-control)**  
+  Real-time temperature monitoring and automatic fan control system using ESP32, Arduino Uno, infrared communication and a Python GUI.
 
 ## 📫 Contact
 
