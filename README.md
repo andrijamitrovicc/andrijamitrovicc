@@ -22,15 +22,15 @@ I enjoy building practical projects that combine software, hardware and data.
 - Data Processing
 - Hardware–Software Integration
 
-## 🚀 Projects
 
 ## 🚀 Projects
 
 - **[Pico IR Communication](https://github.com/andrijamitrovicc/pico-ir-communication)**  
   Infrared communication system between Raspberry Pi Pico boards using MicroPython, PWM and a 38 kHz IR link.
 
-- **EEG / BCI Classification** — coming soon
-- **Unity BCI Game** — coming soon
+- **[EEG BCI Unity Control](https://github.com/andrijamitrovicc/eeg-bci-unity-control)**  
+  EEG-based Brain-Computer Interface integrated with OpenViBE, CSP classification, LSL communication and a real-time Unity game.
+
 - **Temperature Monitoring System** — coming soon
 
 ## 📫 Contact
